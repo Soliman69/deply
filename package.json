@@ -1,0 +1,24 @@
+{
+  "name": "proyectos",
+  "version": "1.0.0",
+  "description": "Repo de clase para guia de una webapp en Node/Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos.git"
+  },
+  "author": "Cifo Violeta IFCD0111 22/23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/issues"
+  },
+  "homepage": "https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.2.3"
+  }
+}
